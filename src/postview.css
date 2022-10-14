@@ -1,0 +1,48 @@
+.nav{
+    display: flex;
+    justify-content:space-evenly;
+  }
+  .post{
+    position: relative;
+    left:500px;
+    margin: 10px;
+    border: 1.6px  solid lightgray;
+    width: 500px;
+    border-radius: 5px;
+  }
+  .user-Info img{
+    float: right;
+  }
+  h3 {
+    margin-bottom: 0px;
+    padding-left: 15px;
+  }
+  span{
+    padding:0px 15px;
+  }
+  .user-Img img{
+    width: 31.28rem;
+    height: 15rem;
+    padding-top: 5px;
+  }
+  .user-meta{
+    float: right;
+  }
+  .icon {
+    position: relative;
+    left: 5px;
+  }
+  .icon p{
+    position: absolute;
+    top:-6px;
+    left: 40px;
+  }
+  .user-meta span{
+    float: left;
+    padding:0px 10px;
+  }
+  .user-description{
+    font-weight: bold;
+    padding-top: 10px;
+    margin-bottom: 20px;
+  }

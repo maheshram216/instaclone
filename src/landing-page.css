@@ -1,0 +1,31 @@
+.landing-conatiner{
+    display: flex;
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+}
+.landing-conatiner img{
+    width: 50%;
+    height: 500px;
+}
+.landing-conatiner h2{
+    align-self: center;
+    color: green;
+    margin:  30px;
+    font-weight: normal;
+    font-size: xx-large;
+    font-family:'Times New Roman', Times, serif;
+}
+.landing-conatiner button{
+    width: 70px;
+    height: 30px;
+    align-self: center;
+    padding: 3px;
+    margin: 0px 80px;
+    color: green;
+    border: 2px solid green;
+    border-radius: 8px;
+}
+.content{
+    margin: 150px 0px;
+}
